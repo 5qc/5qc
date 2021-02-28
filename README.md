@@ -2,7 +2,7 @@
 - 🔭 **I'm currently working on** [roc0ast3r.dev](https://www.roc0ast3r.dev) and many other websites.
 - 🌱 **I'm currently learning** how to improve my coding skills (and how to take good photography!)
 - 📫 **How to reach me:** [My Twitter](https://twitter.com/roc0ast3r) is the best way to contact me, I'm addicted to it.
-- 😄 **Pronouns:** Any! Call me he/him, she/her, xe/xem, anything.
+- 😄 **Pronouns:** Any! I prefer he/him though, since I'm a boy, but it's fine if you call me she/her or they/them.
 - ⚡ **Fun fact:** I'm autistic
 
 <!--
