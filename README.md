@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 **I'm currently working on** [roc0ast3r.dev](https://www.roc0ast3r.dev) and many other websites.
+- 🌱 **I'm currently learning** how to improve my coding skills (and how to take good photography!)
+- 📫 **How to reach me:** [My Twitter](https://twitter.com/roc0ast3r) is the best way to contact me, I'm addicted to it.
+- 😄 **Pronouns:** Any! Call me he/him, she/her, xe/xem, anything.
+- ⚡ **Fun fact:** I'm autistic
 
 <!--
 **Roc0ast3r/Roc0ast3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
