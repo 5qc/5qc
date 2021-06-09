@@ -5,4 +5,6 @@ I have made a number of websites, all of which you can find [here](https://5qc.g
 
 I have no idea what else to put on this readme, so I guess enjoy looking at my terrible code and improve them while you like, I don't know.
 
-![doggoo](assets/doggoo.png)
+[![ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=5qc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5qc)](https://github.com/anuraghazra/github-readme-stats)
