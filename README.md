@@ -7,7 +7,7 @@ I have no idea what else to put on this readme, so I guess enjoy looking at my t
 
 <center>
 
-| [![ro's GitHub States](https://github-readme-stats.vercel.app/api?username=5qc&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) | [![ro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5qc&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) |
+| [![ro's GitHub States](https://github-readme-stats.vercel.app/api?username=5qc&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) | [![ro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5qc&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) |
 | - | - |
 
 </center>
