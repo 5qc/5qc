@@ -5,6 +5,9 @@ I have made a number of websites, all of which you can find [here](https://5qc.g
 
 I have no idea what else to put on this readme, so I guess enjoy looking at my terrible code and improve them while you like, I don't know.
 
-[![ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=5qc)](https://github.com/anuraghazra/github-readme-stats)
+<center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5qc)](https://github.com/anuraghazra/github-readme-stats)
+| [![ro's GitHub States](https://github-readme-stats.vercel.app/api?username=5qc&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) | [![ro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5qc&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) |
+| - | - |
+
+</center>
