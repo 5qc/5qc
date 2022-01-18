@@ -1,9 +1,10 @@
 <h1 align="center">Welcome! 👋</h1>
+
 <p align="center">
   <samp>
     My name is Ro, and I just do stuff on the internet. I mainly create<br />
     things with HTML, CSS, and Sass, although you may see me dabble into<br />
-    other languages.
+    other languages. I also occasionally make dumb videos.
   </samp>
 </p>
 
