@@ -4,8 +4,7 @@
   <samp>
     My name is Ro, and I just do stuff on the internet. I mainly create<br />
     things with HTML, CSS, and Sass, although you may see me dabble into<br />
-    other languages. I also occasionally make dumb videos.
-  </samp>
+    other languages. I also occasionally make dumb videos.</samp> <sup><i>and tons of css<br />frameworks but we'll ignore that</i></sup>
 </p>
 
 <hr />
