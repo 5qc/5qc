@@ -10,7 +10,7 @@
 <hr />
 
 ### 👨‍💻 Currently Working On
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=g33836a3pcq9ez5k2zyloojl0&cover_image=true&theme=default&bar_color_cover=true"></img>
+<a href="https://github.com/kittinan/spotify-github-profile"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=g33836a3pcq9ez5k2zyloojl0&cover_image=true&theme=default&bar_color_cover=true"></img></a>
 
 * [SubwayCSS](https://github.com/5qc/SubwayCSS)
 * [Spotify Cover Generator](https://github.com/5qc/spotify-cover)
