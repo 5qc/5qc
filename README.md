@@ -18,6 +18,7 @@
 
 ### 🌱 Currently Learning
 * SCSS
+* JavaScript
 
 ### 🤝 Looking To Collaborate On
 * Nothing at the moment.
