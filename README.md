@@ -15,8 +15,7 @@
 * and more :)
 
 ### 🌱 Currently Learning
-* SCSS
-* JavaScript
+* TypeScript
 
 ### 🤝 Looking To Collaborate On
 * Nothing at the moment.
@@ -25,7 +24,7 @@
 * Nothing at the moment.
 
 ### ⚡️ Fun Fact
-* I am currently learning the constructed language Esperanto. To all my *Esperantistoj*, saluton!
+* I am Cuban American.
 
 ### 📫 How To Reach Me
 * Twitter ([@roc0ast3r](https://twitter.com/roc0ast3r))
@@ -36,9 +35,10 @@
 HTML       ■■■■■■■■■□
 SCSS/Sass  ■■■■■■■■□□
 CSS        ■■■■■■■■□□
-Python     ■■■■■■■□□□
 JavaScript ■■■■■■■□□□
+TypeScript ■■■■■■□□□□
 Stylus     ■■■■■□□□□□
+Python     ■■■■■□□□□□
 Less       ■■□□□□□□□□
 ```
 
