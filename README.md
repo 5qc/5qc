@@ -23,9 +23,6 @@
 ### 💭 Looking For Help On
 * Nothing at the moment.
 
-### ⚡️ Fun Fact
-* I am Cuban American.
-
 ### 📫 How To Reach Me
 * Twitter ([@roc0ast3r](https://twitter.com/roc0ast3r))
 
