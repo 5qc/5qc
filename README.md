@@ -10,7 +10,7 @@
 <hr />
 
 ### 👨‍💻 Currently Working On
-* [Datapedia](/5qc/Datapedia)
+* [Datapedia](https://github.com/5qc/Datapedia)
 * and more :)
 
 ### 🌱 Currently Learning
