@@ -10,18 +10,11 @@
 <hr />
 
 ### 👨‍💻 Currently Working On
-* [SubwayCSS](https://github.com/5qc/SubwayCSS)
-* [Spotify Cover Generator](https://github.com/5qc/spotify-cover)
+* [Datapedia](/5qc/Datapedia)
 * and more :)
 
 ### 🌱 Currently Learning
 * TypeScript
-
-### 🤝 Looking To Collaborate On
-* Nothing at the moment.
-
-### 💭 Looking For Help On
-* Nothing at the moment.
 
 ### 📫 How To Reach Me
 * Twitter ([@roc0ast3r](https://twitter.com/roc0ast3r))
