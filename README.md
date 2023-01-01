@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    My name is Ro, and I just do stuff on the internet. I mainly create<br />
+    My name is Ronin, and I just do stuff on the internet. I mainly create<br />
     things with HTML, JavaScript, and CSS preprocessors, I also occasionally<br />
     make dumb videos.</samp> <sup><i>and tons of css<br />frameworks but we'll ignore that</i></sup>
 </p>
