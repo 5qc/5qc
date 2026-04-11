@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/5qc/5qc/main/assets/image_2023-06-05_144107983.png" width="250" align="center" />
-  <h3 align="center">dumb programmer from washington</h3>
+  <h3 align="center">programmer from washington</h3>
 </p>
 
 i made this github account around 2020 when i was starting to get into programming (and had no idea what git was). feel free to explore around my dumb coding.
